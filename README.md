@@ -10,11 +10,11 @@ You can find the interactive dashboards here:
 
 [Affordability Dashboard 1](https://public.tableau.com/views/ExploringAffordabilityfordifferentMSAs1/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-<img src="Affordability1.png">
+<img src="Dashboard1.png">
 
 [Affordability Dashboard 2](https://public.tableau.com/views/ExploringAffordabilityfordifferentMSAs2/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-<img src="Affordability2.png">
+<img src="Dashboard2.png">
 
 ## Dataset
 
@@ -27,6 +27,7 @@ The datasets used in this project are sourced from various reputable institution
 - **Numbeo Data 2023**: Commuting costs including taxi fares and gasoline prices.
 - **Zillow Research**: Typical home value data.
 
+You can find the dataset in this repository or view it [here](./Data.xlsx).
 
 ## Visual Data Insights:
 
