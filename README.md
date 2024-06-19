@@ -6,12 +6,13 @@ This repository contains the dataset and details pertaining to the comprehensive
 
 ## Dashboard
 
-You can find the interactive dashboards here 
+You can find the interactive dashboards here:
+
 [Affordability Dashboard 1](https://public.tableau.com/views/ExploringAffordabilityfordifferentMSAs1/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 <img src="Affordability1.png">
 
-[Affordability Dashboard 1](https://public.tableau.com/views/ExploringAffordabilityfordifferentMSAs2/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Affordability Dashboard 2](https://public.tableau.com/views/ExploringAffordabilityfordifferentMSAs2/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 <img src="Affordability2.png">
 
